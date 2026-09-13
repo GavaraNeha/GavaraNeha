@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Gavara%20Neha&fontSize=48&fontColor=E5E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+end-to-end+AI+products%2C+not+just+notebooks;Computer+Vision+%7C+NLP+%7C+Generative+AI+%7C+Full-Stack;MediaPipe+%C2%B7+TensorFlow.js+%C2%B7+Flask+%C2%B7+React;Winner+%40+Aspire+For+Her+x+Logitech+Women+Who+Master+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+end-to-end+AI+products%2C+not+just+notebooks;Computer+Vision+%7C+NLP+%7C+Generative+AI+%7C+Full-Stack;MediaPipe+%C2%B7+TensorFlow.js+%C2%B7+Flask+%C2%B7+React;National+Hackathon+Finalist+%7C+Team+Lead" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -73,18 +73,32 @@ I compete regularly in national-level hackathons, ship fast under deadline press
 
 ---
 
-## 🤖 AI / ML Expertise
+## 📂 GitHub Repository Breakdown
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Computer Vision** | ●●●●○ | Real-time hand landmark detection with MediaPipe Hands + TensorFlow.js — sub-60ms inference in SignBridge AI |
-| **Generative AI / LLM Integration** | ●●●●● | Claude & Gemini API integration, Anthropic MCP, agentic workflow design |
-| **NLP** | ●●●●○ | Rule-based NLU/heuristic classification, scam-text risk scoring, bilingual civic assistants |
-| **Speech & Audio AI** | ●●●○○ | Web Speech API, TTS integration (smallest.ai) for accessibility-first interfaces |
-| **Data Analysis & Visualization** | ●●●○○ | Power BI dashboards, financial and risk analytics |
-| **Applied ML Deployment** | ●●●●○ | Flask-based model serving, deployment on Render / Netlify / Vercel |
+| Repository | Primary Language | What it is |
+|---|---|---|
+| [SignBridge-AI](https://github.com/GavaraNeha/SignBridge-AI) | HTML | ASL sign language interpreter |
+| [RiskShield_AI](https://github.com/GavaraNeha/RiskShield_AI) | HTML | Merchant risk console — Razorpay Buildathon |
+| [TrustAI-Scam-Detector](https://github.com/GavaraNeha/TrustAI-Scam-Detector) | HTML | Scam job message detector |
+| [Smart-Bharat-AI](https://github.com/GavaraNeha/Smart-Bharat-AI) | JavaScript | Bilingual civic AI platform |
+| [atomquest-goal-portal](https://github.com/GavaraNeha/atomquest-goal-portal) | JavaScript | Role-based goal tracking portal |
+| [JeevSetu_SIH](https://github.com/GavaraNeha/JeevSetu_SIH) | TypeScript | Livestock health surveillance (SIH 2026) |
+| [otari-cost-aware-assistant](https://github.com/GavaraNeha/otari-cost-aware-assistant) | Python | Cost-aware AI assistant |
+| [SecureFace-NHAI](https://github.com/GavaraNeha/SecureFace-NHAI) | Java | Offline facial recognition prototype |
+| [Ai-money-mentor](https://github.com/GavaraNeha/Ai-money-mentor) | CSS | Financial assistant dashboard |
+| [followthru](https://github.com/GavaraNeha/followthru) | HTML | Meeting-transcript action-item agent |
+| [Leetcode](https://github.com/GavaraNeha/Leetcode) | C++ | LeetCode problem solutions |
+| [cpp_Oops](https://github.com/GavaraNeha/cpp_Oops) | C++ | OOP coursework |
+| [ADS](https://github.com/GavaraNeha/ADS) | C++ | Advanced data structures coursework |
+| [Data_Structures](https://github.com/GavaraNeha/Data_Structures) | C | DSA coursework |
+| [c](https://github.com/GavaraNeha/c) | C | C programming coursework |
+| [Python-programs](https://github.com/GavaraNeha/Python-programs) | Jupyter Notebook | Python practice notebooks |
+| [apartment-management-system](https://github.com/GavaraNeha/apartment-management-system) | HTML | Coursework project |
+| [Mern-Stack](https://github.com/GavaraNeha/Mern-Stack) | HTML | MERN practice |
+
+**Language spread across 18 active repos:** HTML (6) · C++ (3) · TypeScript (2) · JavaScript (2) · C (2) · Java (1) · Python (1) · CSS (1) · Jupyter Notebook (1)
 
 </div>
 
@@ -243,7 +257,7 @@ Note: this one is honestly still UI/architecture-forward — the on-device ML ma
 |---|---|---|
 | AtomQuest Goal Portal | Role-based goal-setting and performance tracking (3 roles, CSV export, audit trail) | [atomquest-goal-portal](https://github.com/GavaraNeha/atomquest-goal-portal) |
 | FollowThru | AI agent turning meeting transcripts into tracked action items — built for InnovaHack Chapter 1 | [followthru](https://github.com/GavaraNeha/followthru) |
-| HerPath: Return-to-Work Guide | GenAI return-to-work guidance app built on AWS PartyRock — Women Who Master 2026 winning submission | [HerPath-Return-to-Work-Guide](https://github.com/GavaraNeha/HerPath-Return-to-Work-Guide) |
+| HerPath: Return-to-Work Guide | GenAI return-to-work guidance app built on AWS PartyRock — Women Who Master 2026 submission | [HerPath-Return-to-Work-Guide](https://github.com/GavaraNeha/HerPath-Return-to-Work-Guide) |
 
 </details>
 
@@ -268,7 +282,7 @@ Note: this one is honestly still UI/architecture-forward — the on-device ML ma
 
 | Recognition | Details |
 |---|---|
-| 🥇 **Winner** | Aspire For Her × Logitech — Women Who Master Hackathon 2026 (Certificate of Excellence) |
+| 🏅 **Certificate of Excellence** | Aspire For Her × Logitech — Women Who Master Hackathon 2026 |
 | 🥈 **Top 6 / 700+ Teams** | HackArena 2.0 Grand Finale, IIIT Delhi (Mozilla Track) |
 | 🥉 **Second Runner-Up** | Simply Updify InnovateX 2026 (National Level Online Hackathon) — Team Lead |
 | 🎖️ **Semi-Finalist** | ET-AI Hackathon 2026, 54,000+ participants — Team Innovexia |
