@@ -77,28 +77,28 @@ I compete regularly in national-level hackathons, ship fast under deadline press
 
 <div align="center">
 
-| Repository | Primary Language | What it is |
-|---|---|---|
-| [SignBridge-AI](https://github.com/GavaraNeha/SignBridge-AI) | HTML | ASL sign language interpreter |
-| [RiskShield_AI](https://github.com/GavaraNeha/RiskShield_AI) | HTML | Merchant risk console — Razorpay Buildathon |
-| [TrustAI-Scam-Detector](https://github.com/GavaraNeha/TrustAI-Scam-Detector) | HTML | Scam job message detector |
-| [Smart-Bharat-AI](https://github.com/GavaraNeha/Smart-Bharat-AI) | JavaScript | Bilingual civic AI platform |
-| [atomquest-goal-portal](https://github.com/GavaraNeha/atomquest-goal-portal) | JavaScript | Role-based goal tracking portal |
-| [JeevSetu_SIH](https://github.com/GavaraNeha/JeevSetu_SIH) | TypeScript | Livestock health surveillance (SIH 2026) |
-| [otari-cost-aware-assistant](https://github.com/GavaraNeha/otari-cost-aware-assistant) | Python | Cost-aware AI assistant |
-| [SecureFace-NHAI](https://github.com/GavaraNeha/SecureFace-NHAI) | Java | Offline facial recognition prototype |
-| [Ai-money-mentor](https://github.com/GavaraNeha/Ai-money-mentor) | CSS | Financial assistant dashboard |
-| [followthru](https://github.com/GavaraNeha/followthru) | HTML | Meeting-transcript action-item agent |
-| [Leetcode](https://github.com/GavaraNeha/Leetcode) | C++ | LeetCode problem solutions |
-| [cpp_Oops](https://github.com/GavaraNeha/cpp_Oops) | C++ | OOP coursework |
-| [ADS](https://github.com/GavaraNeha/ADS) | C++ | Advanced data structures coursework |
-| [Data_Structures](https://github.com/GavaraNeha/Data_Structures) | C | DSA coursework |
-| [c](https://github.com/GavaraNeha/c) | C | C programming coursework |
-| [Python-programs](https://github.com/GavaraNeha/Python-programs) | Jupyter Notebook | Python practice notebooks |
-| [apartment-management-system](https://github.com/GavaraNeha/apartment-management-system) | HTML | Coursework project |
-| [Mern-Stack](https://github.com/GavaraNeha/Mern-Stack) | HTML | MERN practice |
+| Repository | GitHub-Detected | Actual Stack | What it is |
+|---|---|---|---|
+| [SignBridge-AI](https://github.com/GavaraNeha/SignBridge-AI) | HTML | Vanilla JS + MediaPipe (single-file app) | ASL sign language interpreter |
+| [RiskShield_AI](https://github.com/GavaraNeha/RiskShield_AI) | HTML | Python (Flask) + Gradient Boosting model | Merchant risk console — Razorpay Buildathon |
+| [TrustAI-Scam-Detector](https://github.com/GavaraNeha/TrustAI-Scam-Detector) | HTML | Python (Flask) + NLP | Scam job message detector |
+| [Ai-money-mentor](https://github.com/GavaraNeha/Ai-money-mentor) | CSS | Python (Flask) + Chart.js | Financial assistant dashboard |
+| [Smart-Bharat-AI](https://github.com/GavaraNeha/Smart-Bharat-AI) | JavaScript | JavaScript (React + Vite) | Bilingual civic AI platform |
+| [atomquest-goal-portal](https://github.com/GavaraNeha/atomquest-goal-portal) | JavaScript | JavaScript (React) | Role-based goal tracking portal |
+| [JeevSetu_SIH](https://github.com/GavaraNeha/JeevSetu_SIH) | TypeScript | TypeScript | Livestock health surveillance (SIH 2026) |
+| [otari-cost-aware-assistant](https://github.com/GavaraNeha/otari-cost-aware-assistant) | Python | Python (Flask) | Cost-aware AI assistant |
+| [SecureFace-NHAI](https://github.com/GavaraNeha/SecureFace-NHAI) | Java | TypeScript (React Native) | Offline facial recognition prototype |
+| [followthru](https://github.com/GavaraNeha/followthru) | HTML | Vanilla JS (single-file app) | Meeting-transcript action-item agent |
+| [Leetcode](https://github.com/GavaraNeha/Leetcode) | C++ | C++ | LeetCode problem solutions |
+| [cpp_Oops](https://github.com/GavaraNeha/cpp_Oops) | C++ | C++ | OOP coursework |
+| [ADS](https://github.com/GavaraNeha/ADS) | C++ | C++ | Advanced data structures coursework |
+| [Data_Structures](https://github.com/GavaraNeha/Data_Structures) | C | C | DSA coursework |
+| [c](https://github.com/GavaraNeha/c) | C | C | C programming coursework |
+| [Python-programs](https://github.com/GavaraNeha/Python-programs) | Jupyter Notebook | Python | Python practice notebooks |
+| [apartment-management-system](https://github.com/GavaraNeha/apartment-management-system) | HTML | HTML/CSS/JS | Coursework project |
+| [Mern-Stack](https://github.com/GavaraNeha/Mern-Stack) | HTML | HTML/CSS/JS | MERN practice |
 
-**Language spread across 18 active repos:** HTML (6) · C++ (3) · TypeScript (2) · JavaScript (2) · C (2) · Java (1) · Python (1) · CSS (1) · Jupyter Notebook (1)
+**Real language spread (by what the code actually does):** Python (4) · JavaScript (2) · C++ (3) · TypeScript (2) · C (2) · Vanilla JS (2) · HTML/CSS (2)
 
 </div>
 
